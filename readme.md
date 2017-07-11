@@ -7,3 +7,5 @@ source wikipédia
 1998  Tim Berners-Lee decide de faire du web sementiqué afin de dispacher les information web internet et les lié entre elle. source wikipédia
 
 8.8.8.8 dns est un serveur qui permet de convertir des adresse ip  le 8.8.8.8 permet d'acceder à la navigation et sécuriser l internaute source dns google 
+
+192.168.0.1 est une adresse ip et nous l'utilisons pour configurer notre réseau au routeur avec un login et un mot de passe qui passe par notre fournsseur   d'acces internet. source reviversoft.com
