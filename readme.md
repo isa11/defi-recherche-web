@@ -4,3 +4,5 @@ internet était la communication par deux ordinateurs et
 
 1989 Tim Berners-Lee chercheur à genève invente le 1er seveur web appelé World Wide Web.
 1998  Tim Berners-Lee decide de faire du web sementiqué afin de dispacher les information web internet et les lié entre elle.
+
+8.8.8.8 est apparu par google afin d 'offrir des serveur dns recursifs pour les utilisateurs en gros google est un moteur de recherche;
